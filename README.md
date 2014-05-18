@@ -1,4 +1,4 @@
-cluster
+Cluster how-to
 =======
 
 #### SSH to servers
