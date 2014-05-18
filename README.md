@@ -10,8 +10,10 @@ ssh azarbaam@submit1.hpc.engr.oregonstate.edu
 ```
 
 or
-submit2.hpc.engr.oregonstate.edu
-submit3.hpc.engr.oregonstate.edu
+```
+ssh azarbaam@submit2.hpc.engr.oregonstate.edu
+ssh azarbaam@submit3.hpc.engr.oregonstate.edu
+```
 
 ```
 qsub scriptname.sh
