@@ -12,11 +12,12 @@ ssh azarbaam@submit2.hpc.engr.oregonstate.edu
 ssh azarbaam@submit3.hpc.engr.oregonstate.edu
 ```
 
-#### Submit the job/script
+#### **qsub**: Submit a job
 ```
 qsub scriptname.sh
 ```
 
+#### Check the status
 to check if it is working
 ```
 qstat -u azarbaam
