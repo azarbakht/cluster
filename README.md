@@ -1,7 +1,7 @@
 cluster
 =======
 
-1. SSH to servers
+#### SSH to servers
 ```
 ssh azarbaam@flip.engr.oregonstate.edu
 ```
@@ -12,7 +12,7 @@ ssh azarbaam@submit2.hpc.engr.oregonstate.edu
 ssh azarbaam@submit3.hpc.engr.oregonstate.edu
 ```
 
-2. Submit the job/script
+#### Submit the job/script
 ```
 qsub scriptname.sh
 ```
