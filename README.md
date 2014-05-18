@@ -19,21 +19,25 @@ qsub scriptname.sh
 
 #### qstat: Check the status
 > to check if it is working
+
 ```
 qstat -u azarbaam
 ```
 #### qdel: Delete a/all job(s)
 > to delete/kill a running job
+
 ```
 qdel jobName
 ```
 
 > to delete/kill all the running job for user azarbaam
+
 ```
 qdel -u azarbaam
 ```
 
 > to get a dedicated machine from the eecs1 queue 
+
 ```
 qrsh -q eecs1 
 or
