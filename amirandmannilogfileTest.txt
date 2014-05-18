@@ -1,0 +1,510 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2011 The MathWorks, Inc.
+                    R2011b (7.13.0.564) 64-bit (glnxa64)
+                              August 13, 2011
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+ans =
+
+     2
+
+
+ans =
+
+     4
+
+
+ans =
+
+     6
+
+
+ans =
+
+     8
+
+
+ans =
+
+    10
+
+
+ans =
+
+    12
+
+
+ans =
+
+    14
+
+
+ans =
+
+    16
+
+
+ans =
+
+    18
+
+
+ans =
+
+    20
+
+
+ans =
+
+    22
+
+
+ans =
+
+    24
+
+
+ans =
+
+    26
+
+
+ans =
+
+    28
+
+
+ans =
+
+    30
+
+
+ans =
+
+    32
+
+
+ans =
+
+    34
+
+
+ans =
+
+    36
+
+
+ans =
+
+    38
+
+
+ans =
+
+    40
+
+
+ans =
+
+    42
+
+
+ans =
+
+    44
+
+
+ans =
+
+    46
+
+
+ans =
+
+    48
+
+
+ans =
+
+    50
+
+
+ans =
+
+    52
+
+
+ans =
+
+    54
+
+
+ans =
+
+    56
+
+
+ans =
+
+    58
+
+
+ans =
+
+    60
+
+
+ans =
+
+    62
+
+
+ans =
+
+    64
+
+
+ans =
+
+    66
+
+
+ans =
+
+    68
+
+
+ans =
+
+    70
+
+
+ans =
+
+    72
+
+
+ans =
+
+    74
+
+
+ans =
+
+    76
+
+
+ans =
+
+    78
+
+
+ans =
+
+    80
+
+
+ans =
+
+    82
+
+
+ans =
+
+    84
+
+
+ans =
+
+    86
+
+
+ans =
+
+    88
+
+
+ans =
+
+    90
+
+
+ans =
+
+    92
+
+
+ans =
+
+    94
+
+
+ans =
+
+    96
+
+
+ans =
+
+    98
+
+
+ans =
+
+   100
+
+
+ans =
+
+   102
+
+
+ans =
+
+   104
+
+
+ans =
+
+   106
+
+
+ans =
+
+   108
+
+
+ans =
+
+   110
+
+
+ans =
+
+   112
+
+
+ans =
+
+   114
+
+
+ans =
+
+   116
+
+
+ans =
+
+   118
+
+
+ans =
+
+   120
+
+
+ans =
+
+   122
+
+
+ans =
+
+   124
+
+
+ans =
+
+   126
+
+
+ans =
+
+   128
+
+
+ans =
+
+   130
+
+
+ans =
+
+   132
+
+
+ans =
+
+   134
+
+
+ans =
+
+   136
+
+
+ans =
+
+   138
+
+
+ans =
+
+   140
+
+
+ans =
+
+   142
+
+
+ans =
+
+   144
+
+
+ans =
+
+   146
+
+
+ans =
+
+   148
+
+
+ans =
+
+   150
+
+
+ans =
+
+   152
+
+
+ans =
+
+   154
+
+
+ans =
+
+   156
+
+
+ans =
+
+   158
+
+
+ans =
+
+   160
+
+
+ans =
+
+   162
+
+
+ans =
+
+   164
+
+
+ans =
+
+   166
+
+
+ans =
+
+   168
+
+
+ans =
+
+   170
+
+
+ans =
+
+   172
+
+
+ans =
+
+   174
+
+
+ans =
+
+   176
+
+
+ans =
+
+   178
+
+
+ans =
+
+   180
+
+
+ans =
+
+   182
+
+
+ans =
+
+   184
+
+
+ans =
+
+   186
+
+
+ans =
+
+   188
+
+
+ans =
+
+   190
+
+
+ans =
+
+   192
+
+
+ans =
+
+   194
+
+
+ans =
+
+   196
+
+
+ans =
+
+   198
+
+
+ans =
+
+   200
+
