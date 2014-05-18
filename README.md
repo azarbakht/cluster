@@ -12,32 +12,34 @@ ssh azarbaam@submit2.hpc.engr.oregonstate.edu
 ssh azarbaam@submit3.hpc.engr.oregonstate.edu
 ```
 
-#### **qsub**: Submit a job
+#### qsub: Submit a job
 ```
 qsub scriptname.sh
 ```
 
-#### Check the status
-to check if it is working
+#### qstat: Check the status
+> to check if it is working
 ```
 qstat -u azarbaam
 ```
-
-to delete/kill a running job
+#### qdel: Delete a/all job(s)
+> to delete/kill a running job
 ```
 qdel jobName
 ```
 
-to delete/kill all the running job for user azarbaam
+> to delete/kill all the running job for user azarbaam
 ```
 qdel -u azarbaam
 ```
 
+> to get a dedicated machine from the eecs1 queue 
 ```
 qrsh -q eecs1 
 or
 qrsh -q eecs1 matlab -desktop  
 ```
+
 
 ```
 cd /scratch/share/azarbaam
